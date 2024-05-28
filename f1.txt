@@ -1,8 +1,5 @@
 Hi.. Hello!!
 <<<<<<< HEAD
-How are you:):)[D[D[D[D :):)
-I am learning DevOps taught by Asho IT[D[D[Dk[C[D  [DIT
-Ashok IT tag line is ""[DLearn Here Lead Anywhere"
-=======
->>>>>>> parent of 674c870 (first f1 commit)
+How are you :):)
+I am learning DevOps taught by Ashok
 Ashok IT tag line is "Learn Hear Lead Anywhere"
