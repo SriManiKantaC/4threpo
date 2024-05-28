@@ -1,5 +1,4 @@
 Hi.. Hello!!
-<<<<<<< HEAD
 How are you :):)
 I am learning DevOps taught by Ashok
 Ashok IT tag line is "Learn Hear Lead Anywhere"
