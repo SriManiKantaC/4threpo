@@ -1,0 +1,6 @@
+This is GIT
+Learn GIT to do the CLI commit & merge changes
+Git is used in many companies to maintain different source code bases for the project
+//Story citisp2019-165
+int i = 10;
+int j = 20;
