@@ -1,1 +1,2 @@
 Hi.. This is f20.txt file and trying to check the conflict scenario
+Hi, Hello..
